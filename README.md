@@ -9,8 +9,8 @@
 - Оформить баг-репорты после тестирования.
 
 ### Реализация:
-Функциональное тестирование: [decomposition](./decomposition.pdf)
+Функциональное тестирование: [functional-checklists](./functional-checklists.pdf)
 
-Регрессионное тестирование: [KE_and_GZ](./KE_and_GZ.pdf)
+Регрессионное тестирование: [regression-checklists](./regression-checklists.pdf)
 
 Баг-репорты после проведения тестирования: [bug-reports](./bug-reports.pdf)
